@@ -2,6 +2,23 @@
   text-align: center;
 }
 
+.box{
+  padding-left: 60px;
+  /* margin-left: 200px; */
+}
+
+.title{
+  /* font-weight: 100; */
+  text-align: left;
+  padding-left: 40px;
+}
+
+.admin{
+  text-align: left;
+  padding-left: 10px;
+  margin-bottom: 1px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
